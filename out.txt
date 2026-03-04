@@ -1,0 +1,12 @@
+
+> portfolio-official@0.1.0 dev
+> next dev
+
+   ▲ Next.js 14.0.0
+   - Local:        http://localhost:3000
+
+Error: > Couldn't find any `pages` or `app` directory. Please create one under the project root
+    at findPagesDir (D:\Photos\Portfolio\node_modules\next\dist\lib\find-pages-dir.js:42:15)
+    at initialize (D:\Photos\Portfolio\node_modules\next\dist\server\lib\router-server.js:67:69)
+    at async Server.<anonymous> (D:\Photos\Portfolio\node_modules\next\dist\server\lib\start-server.js:236:36)
+[?25h
